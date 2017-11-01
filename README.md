@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-GIT Walkthrough URL: https://i.imgur.com/3oe66CA.gifv 
+GIT Walkthrough URL: https://i.imgur.com/VSnkM7A.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
